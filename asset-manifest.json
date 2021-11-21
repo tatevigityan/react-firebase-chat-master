@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//tatevigityan.github.io/react-firebase-chat-master/static/css/main.9cb7495d.chunk.css",
+    "main.js": "//tatevigityan.github.io/react-firebase-chat-master/static/js/main.0be366b3.chunk.js",
+    "main.js.map": "//tatevigityan.github.io/react-firebase-chat-master/static/js/main.0be366b3.chunk.js.map",
+    "runtime-main.js": "//tatevigityan.github.io/react-firebase-chat-master/static/js/runtime-main.f2a9c1c1.js",
+    "runtime-main.js.map": "//tatevigityan.github.io/react-firebase-chat-master/static/js/runtime-main.f2a9c1c1.js.map",
+    "static/js/2.68f4f41f.chunk.js": "//tatevigityan.github.io/react-firebase-chat-master/static/js/2.68f4f41f.chunk.js",
+    "static/js/2.68f4f41f.chunk.js.map": "//tatevigityan.github.io/react-firebase-chat-master/static/js/2.68f4f41f.chunk.js.map",
+    "index.html": "//tatevigityan.github.io/react-firebase-chat-master/index.html",
+    "precache-manifest.2a597effe857b8c4ba721e78775092bc.js": "//tatevigityan.github.io/react-firebase-chat-master/precache-manifest.2a597effe857b8c4ba721e78775092bc.js",
+    "service-worker.js": "//tatevigityan.github.io/react-firebase-chat-master/service-worker.js",
+    "static/css/main.9cb7495d.chunk.css.map": "//tatevigityan.github.io/react-firebase-chat-master/static/css/main.9cb7495d.chunk.css.map",
+    "static/js/2.68f4f41f.chunk.js.LICENSE.txt": "//tatevigityan.github.io/react-firebase-chat-master/static/js/2.68f4f41f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a9c1c1.js",
+    "static/js/2.68f4f41f.chunk.js",
+    "static/css/main.9cb7495d.chunk.css",
+    "static/js/main.0be366b3.chunk.js"
+  ]
+}
